@@ -1,0 +1,19 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TryHarder152/food.git"
+  },
+  "author": "Oleg Kudelkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TryHarder152/food/issues"
+  },
+  "homepage": "https://github.com/TryHarder152/food#readme"
+}
