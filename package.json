@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TryHarder152/food/issues"
   },
-  "homepage": "https://github.com/TryHarder152/food#readme"
+  "homepage": "https://github.com/TryHarder152/food#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
 }
